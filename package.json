@@ -1,0 +1,24 @@
+{
+  "name": "Managing_tables",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikumar-27/Managing_tables.git"
+  },
+  "keywords": [],
+  "author": "Sai Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikumar-27/Managing_tables/issues"
+  },
+  "homepage": "https://github.com/saikumar-27/Managing_tables#readme",
+  "dependencies": {
+    "pg": "^8.7.1"
+  }
+}
